@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html>
+  <head> <title> My First page </title> </head>  
+<body>
+    <p>Here is a list of our products 
+    <li>prosthetics </li> 
+    <li>dentures</li>
+    <li>artificial hearts</li>
+    <li>dialysis machines</li>
+    <li>pacemakers</li>
+    <li>wearable technologies</li> </p> <br>
+   <h3> Here are some of the images showing them</h3>
+    <img src="Internal storage/bluetooth/download.jpeg" alt="Lower limb prosthetic">
+    <br>
+    <img src="Internal storage/bluetooth/ artificial heart.jpg" alt="An artificial heart">
+   <br> <img src="Internal storage/bluetooth/"denture.jpg alt="A denture"> <br>
+    
+    <a href="Index.html"> about</a>
+    <a href="contact.html">contact</a>
+    <a href="products.html">products</a>
+    </body>
+    </html>

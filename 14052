@@ -1,0 +1,13 @@
+<!DOCTYPE>
+<html>
+   <head> <title>My First page</title>  </head>
+   <body>
+       <p> Our products are some of the most comfortable and affordable of its kind.<br>
+      <main> To access our products you can contact us on the following <li>Email : heavenboundnidren@gmail.com</li> 
+       <li>Phone number : +263781194261</li>
+            </main>   </p> 
+            <a href="Index.html"> about</a>
+            <a href="contact.html">contact</a>
+            <a href="products.html">products</a>
+       </body>
+       </html>

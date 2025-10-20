@@ -1,0 +1,20 @@
+<!DOCTYPE>
+<html>
+    <head> <title> My First Page </title>
+    </head>
+    <body> <h1> Eternal Technologies </h1>
+    <br>
+    <p> A group of engineers specialising in medicine work alongside clinicians , therapists and researchers to develop systems, equipment and devices in order to diagnose and treat illnesses.</p>
+    <br>
+  <p>Examples of our lifesaving and life-enhancing technologies including  
+ <li>prosthetics</li>
+ <li>dentures and artificial hearts</li>
+ <li>dialysis machines</li>
+ <li>pacemakers and wearable technologies</li>
+ 
+<img src="Internal storage/bluetooth/download.jpeg" alt="An example of our products"> </p>
+<a href="Index.html" >about</a>
+<a href="contact.html">contact</a>
+<a href="products.html">products</a>
+</body>
+</html>
